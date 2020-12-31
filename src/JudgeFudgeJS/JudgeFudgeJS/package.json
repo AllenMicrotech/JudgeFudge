@@ -1,0 +1,9 @@
+{
+  "name": "judge-fudge-js",
+  "version": "0.0.0",
+  "description": "JudgeFudgeJS",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
